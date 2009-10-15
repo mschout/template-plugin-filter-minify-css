@@ -49,7 +49,7 @@ css code from filtered content during template processing.
 
 You can contribute or fork this project via github:
 
-http://github.com/mschout/template-plugin-filter-minify-css/tree/master
+http://github.com/mschout/template-plugin-filter-minify-css
 
  git clone git://github.com/mschout/template-plugin-filter-minify-css.git
 
