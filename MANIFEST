@@ -1,0 +1,8 @@
+Changes
+lib/Template/Plugin/Filter/Minify/CSS.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/compile.t
+t/minify.t
