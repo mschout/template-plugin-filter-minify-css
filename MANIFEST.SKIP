@@ -21,3 +21,5 @@
 
 \.swp$
 .gitignore
+weaver\.ini
+dist\.ini
