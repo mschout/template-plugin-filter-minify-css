@@ -1,4 +1,5 @@
 package Template::Plugin::Filter::Minify::CSS;
+# ABSTRACT: CSS::Minifier filter for Template Toolkit
 
 use 5.006;
 use strict;
@@ -31,8 +32,6 @@ sub filter {
 }
 
 1;
-
-# ABSTRACT: CSS::Minifier filter for Template Toolkit
 
 =head1 SYNOPSIS
 
