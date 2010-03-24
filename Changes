@@ -1,6 +1,8 @@
 Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 
 {{$NEXT}}
+
+0.93      2010-03-24 10:26:14 America/Chicago
     - switch to Dist::Zilla for cutting releases.  Raaaaar!
 
 0.92  Fri Nov 13 2009
