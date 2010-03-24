@@ -5,6 +5,15 @@ use strict;
 use base 'Template::Plugin::Filter';
 use CSS::Minifier;
 
+=begin Pod::Coverage
+
+init
+filter
+
+=end Pod::Coverage
+
+=cut
+
 sub init {
     my $self = shift;
 
