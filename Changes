@@ -3,6 +3,7 @@ Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 {{$NEXT}}
     - use my Dist::Zilla pluginbundle
     - update for Dist::Zilla 4.x: Prereq -> Prereqs
+    - fix POD typo
 
 0.93      2010-03-24 10:26:14 America/Chicago
     - switch to Dist::Zilla for cutting releases.  Raaaaar!
