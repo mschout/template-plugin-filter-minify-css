@@ -1,6 +1,7 @@
 Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 
 {{$NEXT}}
+    - remove Module::Signature requirement
 
 0.94  2011-09-02
     - use my Dist::Zilla pluginbundle
