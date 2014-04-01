@@ -1,9 +1,6 @@
 package Template::Plugin::Filter::Minify::CSS;
-BEGIN {
-  $Template::Plugin::Filter::Minify::CSS::VERSION = '0.94';
-}
 # ABSTRACT: CSS::Minifier filter for Template Toolkit
-
+$Template::Plugin::Filter::Minify::CSS::VERSION = '0.95';
 use 5.006;
 use strict;
 use base 'Template::Plugin::Filter';
@@ -28,8 +25,8 @@ sub filter {
 
 1;
 
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -38,7 +35,7 @@ Template::Plugin::Filter::Minify::CSS - CSS::Minifier filter for Template Toolki
 
 =head1 VERSION
 
-version 0.94
+version 0.95
 
 =head1 SYNOPSIS
 
@@ -85,4 +82,3 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
